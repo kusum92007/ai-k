@@ -1,6 +1,6 @@
 pandas
-seaborn
-pickle
+seaborN
 numpy
 streamlit
+
 scikit-learn
